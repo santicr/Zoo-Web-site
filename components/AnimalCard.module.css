@@ -1,0 +1,28 @@
+.cardContainer {
+  width: 100%;
+  background: rgba(204, 204, 204, 0.5);
+}
+
+.animalImage {
+  background-color: lightgray;
+  min-height: 200px;
+
+  width: 220px;
+  height: 250px;
+
+}
+  
+.animalContainer {
+  border: 1px solid lightgray;
+  padding: 10px;
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}

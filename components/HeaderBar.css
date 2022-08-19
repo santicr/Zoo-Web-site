@@ -1,0 +1,12 @@
+.txt {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.nav-item {
+    float: right;
+}
+::selection {
+    background-color: red;
+    color: royalblue;
+}

@@ -1,0 +1,14 @@
+.footer{
+  background: #46ad76;
+  color:white;
+  
+}
+
+@media (min-width: 375px) and (max-width: 812px){
+  .footer{
+    background: #46ad76;
+    color:white;
+    max-width: 100%;
+  }
+
+}
